@@ -1,3 +1,5 @@
+Можно посмотреть на https://alralralr.pythonanywhere.com/
+
 ### Справочник Employees
 
 | Поле               | Тип данных       | Описание                               |
